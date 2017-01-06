@@ -32,17 +32,21 @@ $(document).ready(function () {
         var somaQuatX = soma(quatruplos(x));
         var somaMulXY = soma(multiplicacao(x,y));
         var somaQuadXMultY = soma(quadradosXMultY(x,y));
+        var Yl = logn(y);
+        var somaYl = soma(Yl);
+        var somaMultXYl = soma(x, Yl);
 
         var i = x.length;
         var li = linear(i, somaX,somaY,somaQuadX, somaMulXY);
         var po2 = polinomial2(i,somaX,somaY,somaQuadX,somaCubX,somaQuatX,somaMulXY,somaQuadXMultY);
-
+        var exp = exponencial(i,somaX,somaYl,somaQuadX,somaMultXYl);
 
         var coord = coordenadas(x,y);
         var coordli = plotlineLinear(Math.min.apply(Math,x), Math.max.apply(Math,x), li);
         var coordpo2 = plotlinePolinomio2(Math.min.apply(Math,x), Math.max.apply(Math,x), po2);
+        var coordexp = plotlineExponecial(Math.min.apply(Math,x), Math.max.apply(Math,x), exp);
 
-        // console.log(coordpo2);
+        // console.log(coordexp);
 
         $.plot("#grafico", [{
             data: coord,
@@ -52,6 +56,9 @@ $(document).ready(function () {
             lines: { show: true }
         },{
             data: coordpo2,
+            lines: { show: true }
+        },{
+            data: coordexp,
             lines: { show: true }
         }
         ]);
