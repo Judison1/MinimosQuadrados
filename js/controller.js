@@ -30,6 +30,7 @@ function quadrados(valores) {
     }
     return quad;
 }
+// Função para encontra o resultado de um vetor valores elevado a terceira potência
 function cubicos(valores) {
     var cub = new Array();
     for (var i = 0; i < valores.length; i++) {
@@ -37,7 +38,7 @@ function cubicos(valores) {
     }
     return cub;
 }
-
+// Função para encontra o resultado de de um vetor valores elevado a quarta potência
 function quatruplos(valores) {
     var quat = new Array();
     for (var i = 0; i < valores.length; i++) {
@@ -54,6 +55,7 @@ function multiplicacao(x,y) {
     }
     return mult;
 }
+// Função para encontrar os quadrados de x multiplicadospor y
 function quadradosXMultY(x,y) {
     var quadXMultY = new Array();
 
@@ -114,11 +116,9 @@ function plotlineExponecial(pri, ult, p) {
     }
 
     for (var x = pri; x <= ult; x = x+e){
-        c =  p[0] * x;
 
-        y = Math.pow(p[1],c);
-
-        coord.push([x,y.toFixed(3)]);
+        y = p[1] * (Math.pow(Math.E,p[0] * x));
+        coord.push([x,y]);
     }
 
     return coord;

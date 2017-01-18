@@ -1,0 +1,1219 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"coo",
+				"coordli"
+			],
+			[
+				"da",
+				"dados"
+			],
+			[
+				"t",
+				"tbody\tTag"
+			],
+			[
+				"s",
+				"section\tTag"
+			],
+			[
+				"ex",
+				"exp"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"p",
+				"p_ini"
+			],
+			[
+				"col-",
+				"col-md-12"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"no",
+				"nodes"
+			],
+			[
+				"coor",
+				"coordenadas"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"au",
+				"author"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"arr",
+				"array\t$… = array (…)"
+			],
+			[
+				"ord",
+				"orderBy"
+			],
+			[
+				"at",
+				"articles"
+			],
+			[
+				"getEs",
+				"getEstadosFinais"
+			],
+			[
+				"es",
+				"estadoInicial"
+			],
+			[
+				"get",
+				"getNome"
+			],
+			[
+				"in",
+				"inc\t#include <…>"
+			],
+			[
+				"co",
+				"cout"
+			],
+			[
+				"qtd",
+				"qtdsimbolos"
+			],
+			[
+				"A",
+				"AutomatoController"
+			],
+			[
+				"i",
+				"inc\t#include <…>"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"setEs",
+				"setEstadoInicial"
+			],
+			[
+				"te",
+				"tempEstado"
+			],
+			[
+				"tem",
+				"tempFT"
+			],
+			[
+				"set",
+				"setFuncoesTransicao"
+			],
+			[
+				"Tr",
+				"transição"
+			],
+			[
+				"temp",
+				"tempNome"
+			],
+			[
+				"esta",
+				"estados"
+			],
+			[
+				"con",
+				"confirmar"
+			],
+			[
+				"f",
+				"funcoesTransicaoAFN"
+			],
+			[
+				"pu",
+				"push_back"
+			],
+			[
+				"fun",
+				"funcoesTransicao"
+			],
+			[
+				"ft",
+				"ft1"
+			],
+			[
+				"q",
+				"q0"
+			],
+			[
+				"est",
+				"estados"
+			],
+			[
+				"func",
+				"FuncaoTransicao"
+			],
+			[
+				"retur",
+				"return"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"Es",
+				"Estado"
+			],
+			[
+				"ve",
+				"vector\tstd::vector"
+			],
+			[
+				"usi",
+				"usingt\tUsing statement (templated)"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"php",
+				"phplot"
+			],
+			[
+				"ar",
+				"arrayNode"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"art",
+				"article_id"
+			],
+			[
+				"Ca",
+				"CategoryArticle"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"col",
+				"col-md-8"
+			],
+			[
+				"col-m",
+				"col-md-4"
+			],
+			[
+				"categ",
+				"category"
+			],
+			[
+				"tg",
+				"tags"
+			],
+			[
+				"Ta",
+				"TagController"
+			],
+			[
+				"ta",
+				"tag"
+			],
+			[
+				"ne",
+				"newTags"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"toke",
+				"token"
+			],
+			[
+				"dele",
+				"deleteRow"
+			],
+			[
+				"btn_",
+				"btn_remove"
+			],
+			[
+				"token",
+				"_token"
+			],
+			[
+				"ed",
+				"edit_tr"
+			],
+			[
+				"bt",
+				"btn-status"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"remo",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"btn",
+				"btn-group"
+			],
+			[
+				"Art",
+				"Article"
+			],
+			[
+				"getEdi",
+				"getEditar"
+			],
+			[
+				"ge",
+				"get\t$.get()"
+			],
+			[
+				"pare",
+				"parent\t.parent()"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"gro",
+				"btn-group"
+			],
+			[
+				"ch",
+				"children\t.children()"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"rem",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"pos",
+				"possivel"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"ca",
+				"cat"
+			],
+			[
+				"fie",
+				"file"
+			],
+			[
+				"fi",
+				"fileRequest"
+			],
+			[
+				"fil",
+				"file"
+			],
+			[
+				"pat",
+				"path"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"sat",
+				"status"
+			],
+			[
+				"sa",
+				"salvarepublicar"
+			],
+			[
+				"su",
+				"submit\t.submit()"
+			],
+			[
+				"ari",
+				"article"
+			],
+			[
+				"article",
+				"article_id"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"new",
+				"newCats"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"a",
+				"a\tTag"
+			],
+			[
+				"la",
+				"layout"
+			],
+			[
+				"im",
+				"img\tTag"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"or",
+				"orderBy"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"ati",
+				"article"
+			],
+			[
+				"VA",
+				"var_dump"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"mos",
+				"mostViewed"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"isn",
+				"is_null"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/index.js",
+			"settings":
+			{
+				"buffer_size": 2477,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/minimos_quadrados.js",
+			"settings":
+			{
+				"buffer_size": 1128,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/linear.js",
+			"settings":
+			{
+				"buffer_size": 420,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++11-MinGW-w64.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++11-MinGW-w64.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++11-MinGW-w64.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/untitled.sublime-build",
+					""
+				],
+				[
+					"Packages/User/untitled.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/untitled.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 384.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/G/Helheim/Project/MinimosQuadrados",
+		"/G/Helheim/Project/MinimosQuadrados/js"
+	],
+	"file_history":
+	[
+		"/D/bootsqm.dat",
+		"/E/judis/Onedrive/BCC/6º Semestre/Linguagens Formais e Automatos/Trabalho/main.cpp",
+		"/E/judis/Onedrive/BCC/6º Semestre/Linguagens Formais e Automatos/Trabalho/Estado.h",
+		"/E/judis/Onedrive/BCC/6º Semestre/Linguagens Formais e Automatos/Trabalho/FuncaoTransicao.h",
+		"/E/judis/Onedrive/BCC/6º Semestre/Linguagens Formais e Automatos/Trabalho/AutomatosController.h",
+		"/E/judis/Onedrive/BCC/6º Semestre/Linguagens Formais e Automatos/Trabalho/alternativa/TratamentoString.hh",
+		"/E/judis/Onedrive/BCC/6º Semestre/Linguagens Formais e Automatos/Trabalho/alternativa/AutomatoController.cpp",
+		"/E/judis/Onedrive/BCC/6º Semestre/Linguagens Formais e Automatos/Trabalho/alternativa/main.cpp",
+		"/E/judis/Onedrive/BCC/6º Semestre/Linguagens Formais e Automatos/Trabalho/alternativa/AutomatoController.hh",
+		"/C/Users/judis/AppData/Local/Temp/Temp1_ConvertAutomatos-master.zip/ConvertAutomatos-master/README.md",
+		"/E/judis/Onedrive/BCC/6º Semestre/Linguagens Formais e Automatos/Trabalho/alternativa/automato.cpp",
+		"/C/Users/judis/AppData/Roaming/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/C/wamp/www/teste01/DBController.php",
+		"/C/Users/judis/Documents/qdwe_Enc.sql",
+		"/C/Users/judis/Documents/qdwe_Dec.sql",
+		"/D/PegadaHidrica - Protótipo/fazenda/cadastro.html",
+		"/C/wamp/www/sonhamundos/public/css/style.css",
+		"/C/Users/judis/Documents/jquery.adaptive-backgrounds.js-master/jquery.adaptive-backgrounds.js-master/demos/background.html",
+		"/C/Users/judis/Documents/jquery.adaptive-backgrounds.js-master/jquery.adaptive-backgrounds.js-master/demos/explicit-parent.html",
+		"/C/Users/judis/Documents/jquery.adaptive-backgrounds.js-master/jquery.adaptive-backgrounds.js-master/demos/adaptive-text.html",
+		"/C/wamp/www/sonhamundos/resources/views/layouts/default.blade.php",
+		"/C/wamp/www/sonhamundos/database/factories/ModelFactory.php",
+		"/C/wamp/www/sonhamundos/database/seeds/ArticleTableSeeder.php",
+		"/C/wamp/www/sonhamundos/database/seeds/CategoryTableSeeder.php",
+		"/C/wamp/www/sonhamundos/resources/views/category/articles.blade.php",
+		"/C/Users/judis/Documents/jquery.adaptive-backgrounds.js-master/jquery.adaptive-backgrounds.js-master/demos/cors.html",
+		"/C/Users/judis/Documents/jquery.adaptive-backgrounds.js-master/jquery.adaptive-backgrounds.js-master/demos/callback.html",
+		"/C/wamp/www/sonhamundos/app/Http/Controllers/CategoryController.php",
+		"/C/wamp/www/sonhamundos/app/Article.php",
+		"/C/wamp/www/sonhamundos/app/Http/Controllers/PublicController.php",
+		"/C/wamp/www/sonhamundos/.env",
+		"/C/wamp/www/pegadaHidrica/.gitignore",
+		"/C/wamp/www/sonhamundos/.gitignore",
+		"/C/wamp/www/pegadaHidrica/.gitignore.txt",
+		"/C/wamp/www/sonhamundos/resources/views/articles/view.blade.php",
+		"/C/wamp/www/sonhamundos/resources/views/articles/register.blade.php",
+		"/C/wamp/www/sonhamundos/resources/views/articles/edit.blade.php",
+		"/C/wamp/www/sonhamundos/app/Http/Controllers/ArticleController.php",
+		"/C/wamp/www/sonhamundos/app/Http/Controllers/TagController.php",
+		"/C/wamp/www/sonhamundos/app/Http/Controllers/AdminController.php",
+		"/C/wamp/www/sonhamundos/app/Http/Middleware/Authenticate.php",
+		"/C/wamp/www/sonhamundos/resources/views/articles/list.blade.php",
+		"/C/wamp/www/sonhamundos/resources/views/category/update.blade.php",
+		"/C/wamp/www/sonhamundos/resources/views/category/list.blade.php",
+		"/C/wamp/www/sonhamundos/app/Http/routes.php",
+		"/C/wamp/www/sonhamundos/resources/views/index.blade.php",
+		"/C/wamp/www/sonhamundos/public/js/remove.js",
+		"/C/wamp/www/sonhamundos/public/js/btnToggle.js",
+		"/C/wamp/www/sonhamundos/resources/views/layouts/admin.blade.php",
+		"/C/wamp/bin/apache/apache2.4.18/conf/httpd.conf",
+		"/C/wamp/bin/mysql/mysql5.7.11/my.ini",
+		"/C/Users/judis/Desktop/trabalho de banco de dados/tavernadobardo.sql",
+		"/C/Users/judis/Desktop/trabalho de banco de dados/insert.usuarios.sql",
+		"/C/Users/judis/Desktop/trabalho de banco de dados/insert.jogadores.sql",
+		"/C/Users/judis/Desktop/trabalho de banco de dados/insert.mestre.sql",
+		"/C/wamp/www/site/index.php",
+		"/C/Users/judis/Documents/IDM/Instructions.txt",
+		"/C/wamp/www/sonhamundos/app/Providers/AppServiceProvider.php",
+		"/C/wamp/www/sonhamundos/public/index.php",
+		"/C/wamp/www/sonhamundos/public/.htaccess",
+		"/C/Users/judis/Documents/comp.txt",
+		"/C/Users/judis/Documents/normal.txt",
+		"/C/Users/judis/Downloads/Compressed/switches/index.html",
+		"/C/Users/judis/Downloads/Compressed/switches/switchbutton.css",
+		"/C/wamp/www/sonhamundos/public/css/switchbutton.css",
+		"/C/wamp/www/sonhamundos/.env.example",
+		"/C/wamp/www/sonhamundos/app/Http/Middleware/EncryptCookies.php",
+		"/C/wamp/www/sonhamundos/app/Http/Controllers/Auth/AuthController.php",
+		"/C/wamp/www/sonhamundos/config/app.php",
+		"/C/wamp/bin/apache/apache2.4.18/conf/extra/httpd-vhosts.conf",
+		"/C/wamp/www/sonhamundos/app/Http/Controllers/FileController.php",
+		"/C/wamp/www/sonhamundos/resources/views/category/register.blade.php",
+		"/C/wamp/www/sonhamundos/vendor/symfony/console/Application.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/wamp/www/sonhamundos/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/C/wamp/www/sonhamundos/resources/views/users/login.blade.php",
+		"/C/wamp/www/sonhamundos/public/css/admin/style.css",
+		"/C/wamp/www/sonhamundos/public/css/admin/login.css",
+		"/C/wamp/www/sonhamundos/app/Http/Controllers/UserController.php",
+		"/C/wamp/www/sonhamundos/resources/views/articles/edit_content.blade.php",
+		"/C/wamp/www/sonhamundos/resources/views/articles/_article.blade.php",
+		"/C/wamp/www/sonhamundos/public/css/component.css",
+		"/C/Games/Call_Of_Duty 4/Call_Of_Duty 4/cod4 keys.txt",
+		"/C/wamp/www/sonhamundos/resources/views/articles/_inner.blade.php",
+		"/C/Users/judis/Downloads/Compressed/adobe illustrator cc 2015 19 0 0 64 bit crack/adobe illustrator cc 2015 19 0 0 64 bit crack/ReadMe.txt",
+		"/C/wamp/www/sonhamundos/resources/views/articles/editImg.blade.php",
+		"/C/wamp/www/sonhamundos/resources/views/articles/_news_articles_2.blade.php",
+		"/C/wamp/www/sonhamundos/resources/views/articles/_news_articles_1.blade.php",
+		"/C/wamp/www/PegadasHidricas/index.html",
+		"/C/wamp/www/PegadasHidricas/css/estilo.css",
+		"/C/wamp/www/PegadasHidricas/js/CalculoPegadaVerdeController.js",
+		"/C/wamp/www/PegadasHidricas/js/calculo-pegada-verde.js",
+		"/C/Users/judis/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/wamp/www/sonhamundos/resources/views/articles/_news_headlines.blade.php",
+		"/C/wamp/www/sonhamundos/resources/views/articles/_indicators.blade.php",
+		"/C/wamp/www/sonhamundos/public/css/table.css",
+		"/C/wamp/www/Ambiente-Teste/table/index.html",
+		"/C/wamp/www/Ambiente-Teste/table/card.html",
+		"/C/wamp/www/Ambiente-Teste/summernote/index.html",
+		"/C/wamp/www/Ambiente-Teste/summernote/teste.php",
+		"/C/wamp/www/Ambiente-Teste/crop/index.html",
+		"/E/RELOADED/bf2_serials.txt",
+		"/C/wamp/www/sonhamundo/resources/views/category/list.blade.php",
+		"/C/wamp/www/sonhamundo/resources/views/layouts/default.blade.php",
+		"/C/wamp/www/sonhamundo/resources/views/layouts/admin.blade.php",
+		"/C/wamp/www/sonhamundo/resources/views/layouts/painel.blade.php",
+		"/C/Users/judis/AppData/Local/Temp/Temp1_StickyTableHeaders.zip/StickyTableHeaders/css/demo.css",
+		"/C/Users/judis/AppData/Local/Temp/Temp1_StickyTableHeaders.zip/StickyTableHeaders/css/component.css",
+		"/C/wamp/www/Ambiente-Teste/src/php/upload.php",
+		"/C/wamp/www/Ambiente-Teste/src/index.html",
+		"/C/Users/judis/AppData/Local/Temp/Temp2_wiki.zip/wiki/app/routes.php",
+		"/C/Users/judis/AppData/Local/Temp/Temp2_www.zip/www/dinflux/app/Http/routes.php",
+		"/C/wamp/www/sonhamundo/app/Http/routes.php",
+		"/C/wamp/www/sonhamundo/resources/views/users/register.blade.php",
+		"/C/wamp/www/acadformat/src/Form.cpp",
+		"/C/wamp/www/sonhamundo/config/app.php",
+		"/C/wamp/www/sonhamundo/database/seeds/UserTableSeeder.php",
+		"/C/wamp/www/sonhamundo/database/seeds/PermissionTableSeeder.php",
+		"/C/wamp/www/sonhamundo/resources/views/users/login.blade.php",
+		"/C/wamp/www/sonhamundo/app/Http/Controllers/UserController.php",
+		"/F/Programas/Hotspot Shield/Instruções.txt",
+		"/C/Users/judis/AppData/Local/Temp/Temp1_Hotspot Shield Elite Universal Crac-k.zip/Instructions.txt",
+		"/C/Users/judis/AppData/Local/Temp/Temp1_wiki.zip/wiki/public/assets/css/admin/estilo.css",
+		"/C/wamp/www/sonhamundo/public/css/style.css",
+		"/C/wamp/www/sonhamundo/resources/views/index.blade.php",
+		"/C/wamp/www/sonhamundo/resources/views/articles/_article.blade.php",
+		"/C/wamp/www/sonhamundo/resources/views/articles/_news_headlines.blade.php",
+		"/C/wamp/www/sonhamundo/resources/views/articles/_news_articles_2.blade.php"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'];\n",
+			"],\n",
+			",\n",
+			", ",
+			"tempEstado ",
+			"matriz",
+			"picotar",
+			"qtdestados",
+			"picotar",
+			"getEs",
+			";\n",
+			">\n",
+			"';\n",
+			"'),\n",
+			"')),\n",
+			"<",
+			"saveF",
+			"diff",
+			"old",
+			"listen",
+			"Directory",
+			"dire",
+			"deny ",
+			"'",
+			"bac",
+			"hssubmenu",
+			"<div class=\"row\">\n\t  \t\t\t\t\t\t\t\t<div class=\"col-md-4\">\n\t  \t\t\t\t\t\t\t\t\tCVERDE \n\t  \t\t\t\t\t\t\t\t\t<small class=\"text-info\">(Metros Cúbicos por Hectares)</small>\n\t  \t\t\t\t\t\t\t\t</div>\n\t  \t\t\t\t\t\t\t\t<div class=\"col-md-4\">\n\t  \t\t\t\t\t\t\t\t\t<span class=\"form-control cverde\"></span>\n\t  \t\t\t\t\t\t\t\t</div>\n\t  \t\t\t\t\t\t\t</div>\n\t  \t\t\t\t\t\t\t",
+			"car",
+			"provi",
+			"image",
+			"cgi",
+			"cgi-b",
+			"cgi",
+			"qtdCss",
+			"Extends::",
+			"Extends",
+			"vh",
+			"tab",
+			"cont_artigo",
+			"loga",
+			"sess",
+			"utf",
+			"<?php\n\tinclude 'include/topo.php';\n?>",
+			"topo",
+			"rodape",
+			"button",
+			"outra",
+			"h1",
+			"cont_",
+			"p",
+			"cont_artigo",
+			"post_noticia",
+			"noticia im",
+			"noticia",
+			"cont_a",
+			"@f",
+			"@",
+			"ico",
+			"tirac",
+			"item",
+			"item_tabs",
+			"mediabox",
+			"outras div",
+			"outras",
+			"sintese",
+			"sintese img",
+			"form",
+			"inp",
+			"res\n",
+			"pos\n",
+			"po\n",
+			"a\n",
+			"gra\n",
+			"redim\n",
+			"redi\n",
+			" red\n",
+			" \n",
+			"resizeCrop",
+			"redimensiona",
+			"s(",
+			"views",
+			"item_ta",
+			"$n",
+			".callbacks_nav",
+			"img",
+			"margin-bo",
+			"margin-",
+			"dest",
+			"des",
+			"top",
+			"dest",
+			".item",
+			".item_noticia",
+			"item_no",
+			"medium",
+			" li",
+			"li",
+			"call",
+			"ca",
+			"*",
+			"slider",
+			"pag",
+			"item",
+			"gal",
+			"item ",
+			"sinte",
+			"li.tab-curren",
+			"abso",
+			"outr",
+			"border: 1px #ccc solid;",
+			"item",
+			"tabs",
+			"li ",
+			"con",
+			"tabs",
+			"colo",
+			"tabs nav l",
+			"colo",
+			"bac",
+			"icon-shop",
+			"sec",
+			"ico",
+			"url",
+			"ico",
+			"mediabox i",
+			"mediabox",
+			"paginac",
+			"sinte"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2477,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1766,
+								721
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1621.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/minimos_quadrados.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/linear.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								23
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 274.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/untitled.sublime-build",
+	"project": "minimos_quadrados.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"appse",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"appli",
+				"vendor\\symfony\\console\\Application.php"
+			],
+			[
+				"sum",
+				"Admin/js/summer.js"
+			],
+			[
+				"cor",
+				"Admin/core/core.php"
+			],
+			[
+				"exe",
+				"Admin/css/exemplo.css"
+			],
+			[
+				"to",
+				"Admin/include/topo.php"
+			],
+			[
+				"sele",
+				"Admin/css/selectize.default.css"
+			],
+			[
+				"est",
+				"Admin/css/estilo.css"
+			],
+			[
+				"ro",
+				"include/rodape.php"
+			],
+			[
+				"core",
+				"Admin/core/core.php"
+			],
+			[
+				"sl",
+				"css/slider.css"
+			],
+			[
+				"t",
+				"include/topo.php"
+			],
+			[
+				"tabs",
+				"css/tabs_component.css"
+			],
+			[
+				"slid",
+				"css/slider.css"
+			],
+			[
+				"top",
+				"include/topo.php"
+			],
+			[
+				"es",
+				"Admin/css/estilo.css"
+			],
+			[
+				"for",
+				"Admin/form_artigo.php"
+			],
+			[
+				"log",
+				"Admin/include/logado.php"
+			],
+			[
+				"val",
+				"Admin/valida_login.php"
+			],
+			[
+				"esti",
+				"css/estilo.css"
+			],
+			[
+				"uplo",
+				"Admin/server/php/UploadHandler.php"
+			],
+			[
+				"fomr",
+				"admin/form_galeria.php"
+			],
+			[
+				"topo",
+				"include/topo.php"
+			],
+			[
+				"cad",
+				"cad_servicos.php"
+			],
+			[
+				"",
+				"valida_login.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
