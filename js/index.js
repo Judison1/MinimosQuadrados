@@ -48,23 +48,72 @@ $(document).ready(function () {
         var coordpo2 = plotlinePolinomio2(Math.min.apply(Math,x), Math.max.apply(Math,x), po2);
         var coordexp = plotlineExponecial(Math.min.apply(Math,x), Math.max.apply(Math,x), exp);
 
+        var ma = melhorAjuste(x,y,li,po2,exp);
 
+        switch (ma[0]) {
+            case "linear":
+                $.plot("#melhor-grafico", [{
+                    label: "Coordenadas Passadas",
+                    data: coord,
+                    points: { show: true },
+                    color: "rgb(0,0,0)"
+                }, {
+                    label: "Linear",
+                    data: coordli,
+                    lines: {show: true},
+                    color: "rgb(171,41,36)"
+                }]);
+                break;
+            case "exponencial":
+                $.plot("#melhor-grafico", [{
+                    label: "Coordenadas Passadas",
+                    data: coord,
+                    points: { show: true },
+                    color: "rgb(0,0,0)"
+                }, {
+                    label: "Exponencial",
+                    data: coordexp,
+                    lines: { show: true },
+                    color: "rgb(100,1,236)"
+                }]);
+                break;
+            case "polinomial":
+                $.plot("#melhor-grafico", [{
+                    label: "Coordenadas Passadas",
+                    data: coord,
+                    points: { show: true },
+                    color: "rgb(0,0,0)"
+                }, {
+                    label: "Polinomial",
+                    data: coordpo2,
+                    lines: { show: true },
+                    color: "rgb(12,100,56)"
+                }]);
+                break;
+        }
+        if(ma[0] == "linear") {
+
+        }
         $.plot("#grafico", [{
             label: "Coordenadas Passadas",
             data: coord,
-            points: { show: true }
+            points: { show: true },
+            color: "rgb(0,0,0)"
         }, {
             label: "Linear",
             data: coordli,
-            lines: { show: true }
+            lines: { show: true },
+            color: "rgb(171,41,36)"
         },{
             label: "Polinomial",
             data: coordpo2,
-            lines: { show: true }
+            lines: { show: true },
+            color: "rgb(12,100,56)"
         },{
             label: "Exponencial",
             data: coordexp,
-            lines: { show: true }
+            lines: { show: true },
+            color: "rgb(100,1,236)"
         }
         ]);
         table = "<table class='table'><thead><th>i</th><th>x<sub>i</sub></th><th>y<sub>i</sub></th></thead><tbody>";
@@ -74,7 +123,10 @@ $(document).ready(function () {
         table += "</tbody>";
         $('.info').html("<p><strong>Linear: </strong> <em> y = " + li[0].toFixed(2) +"x+("+li[1].toFixed(2)+")</em></p>" +
             "<p><strong>Polinomial: </strong><em>y = " + po2[0].toFixed(2) + "x² + ("+po2[1].toFixed(2)+"x) + (" + po2[2].toFixed(2) + ")</em></p>" +
-            "<p><strong>Exponencial: </strong><em>y = " + exp[1].toFixed(2) + "e<sup>"+exp[0].toFixed(2)+"x</sup></em></p> <hr> " + table);
+            "<p><strong>Exponencial: </strong><em>y = " + exp[1].toFixed(2) + "e<sup>"+exp[0].toFixed(2)+"x</sup></em></p> <hr> " +
+            "<p><strong>Melhor ajuste:</strong> caso " + ma[0] + "</p>" +
+            "<p><strong>Soma dos Quadrados das Diferenças:</strong> " + ma[1] + "</p>" +
+            " <hr> " + table);
 
     });
 
